@@ -1,0 +1,13 @@
+.avatar{
+	display: block;
+	margin-left: auto;
+	height: 350px;
+}
+
+.padding{
+	border-radius: 5px;
+    max-width: 90%;
+    margin: 0px auto;
+    float: none;
+	padding-top:10px;
+}
